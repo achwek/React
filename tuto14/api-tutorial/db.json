@@ -1,0 +1,52 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "grapes"
+    },
+    {
+      "id": 3,
+      "item": "rice"
+    },
+    {
+      "item": "achwek",
+      "id": 4
+    },
+    {
+      "item": "achwek",
+      "id": 5
+    },
+    {
+      "item": "Rimes",
+      "id": 6
+    },
+    {
+      "item": "Rimes",
+      "id": 7
+    },
+    {
+      "item": "doge",
+      "id": 8
+    },
+    {
+      "item": "",
+      "id": 9
+    },
+    {
+      "item": "doge",
+      "id": 10
+    },
+    {
+      "item": "rawen",
+      "id": 11
+    },
+    {
+      "item": "rawen",
+      "id": 12
+    }
+  ]
+}
